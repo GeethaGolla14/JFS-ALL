@@ -1,0 +1,11 @@
+1.whats difference b/w relative url absolute url?
+relative: file given from local
+absolute: file given from outside 
+2.difference b/w width max-width?
+3.meta , head , body, h1-h2 difference , etc?
+4. elements or attributes of video , audio tag?
+  src,width,controls, muted,autoplay
+5.difference waterfall and agile model?
+6.difference b/w http https 
+7. ip country, state , server,device-type
+8.margin and padding.

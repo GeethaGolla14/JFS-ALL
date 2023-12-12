@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: #fff;
+    font-size: 1.2rem;
+}
+.container1{
+    background-color: #e0d9d9;
+    display: flex;
+    
+}
+.container1 img{
+    width: 300px;
+    height: 300px;
+    margin-top: 3%;
+}
+.container1 .title{
+    padding: 10% 15%;
+}
+.container2{
+    background-color: #fff;
+    display: flex;
+    
+}
+.container2 img{
+    width: 300px;
+    height: 300px;
+    margin-top: 3%;
+}
+.container2 .title{
+    padding: 10% 15%;
+}
+footer{
+    background-color: rgb(224, 179, 202);
+
+}
+footer a {
+    text-decoration: none;
+    
+}
