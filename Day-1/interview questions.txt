@@ -9,3 +9,19 @@ absolute: file given from outside
 6.difference b/w http https 
 7. ip country, state , server,device-type
 8.margin and padding.
+9.Why companies using Agile model rather than waterfall model?
+10. Why is IP address ?
+11. Why java full stack you choosed?
+   Java is secured, uses in banking systems,robust,python not developed .
+12.What's DNS?
+13. Diff b/w HTTPS,HTTP?
+14.What's Difference b/w Git and Github?
+	*Git is Local repostory used to push data into remote 	repository ,Git is version control.
+15.What are other version control softwares?
+	*AWS vc,git lab
+16.STATIC Website-created using HTML,CSS
+   DYNAMIC Website-JS(Functionality)
+17.HTML-Hyper Text MarkUp language;
+   Hyper Text-Hyper link(navigation to another web page)
+Mark-up language-Syntax used to form html page
+
